@@ -405,7 +405,7 @@ nav ul li a:hover {
 }
 
 /* UKURAN MOBILE */
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 480px) {
   /* NAVBAR */
   .menu-toggle {
       display: flex;
